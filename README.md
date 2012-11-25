@@ -15,9 +15,18 @@ Leaving this content rating off will default to a G rating.
 
 ## Uses:
 1. To block content that you don't want you or someone you care about viewing on the web.
+    More accurate safe browsing features.
 2. To return search results based for a particular type of query for a given age group/maturity level.
+    Imagine a 11 year old girl writing a paper about tea bags. You don't want her to ever see the adult use of 
+    what a tea bag is or pictures of this. There are adult filters on the web, but this tag will allow them to
+    work more accuretly.
 3. To make web stores easier to categorize content for their users.
+    Allow web stores content which allows them to make better automated tools to organize content for their users and
+    Make your website easier to sell.
 4. To make websites more descriptive for people with disabilities.
+    While a user who can't visually see well will have a website read to them, what they get is kind of a surprise.
+    Instead of having a person will disabilities scan a website that may contain content that surprises them,
+    give them a tool which will tell the user what type of content they are expected to see/read/hear.
 
 
 ## G — General Audiences. All Ages Admitted.
