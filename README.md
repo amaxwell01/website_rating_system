@@ -73,7 +73,7 @@ and therefore off-limits for viewing by their children
 <meta name="web-rating" content="NC-17" />
 ```
 
-## XXX — Website contains pornography. 
+## XXX — Website contains pornographic material. 
 ```html
 <meta name="web-rating" content="XXX" />
 ```
