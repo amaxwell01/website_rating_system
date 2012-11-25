@@ -6,6 +6,10 @@ This is an optional meta tag which will allow website owners and search engines 
 type of content they are expected to see. If a parent or guardian wants to block all websites with a specific 
 website rating, this will make it easier for users to understand what type of material is being block/shown.
 
+The Website Rating Meta tag will be used by the developer and not initiated by a group. A group will only determine the
+rating scale(s). This is to ensure that developers get the freedome to developer their website, and by adding this
+meta tag, that it will help categorize their content for their viewers.
+
 ###Note:
 Leaving this content rating off will default to a G rating.
 
