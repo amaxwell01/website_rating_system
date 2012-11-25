@@ -1,4 +1,4 @@
-website_rating_system
+Website Rating System
 =====================
 
 A optional standard's based meta tag to rate websites based on a suggested age of users who can access it. 
